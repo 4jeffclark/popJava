@@ -1,9 +1,9 @@
-package net.homeip.jeffclark.popJava.test;
+package net.homeip.jeffclark.popJava;
 
 import java.io.FileNotFoundException;
 
-import net.homeip.jeffclark.popJava.consoleio.popConsole;
-import net.homeip.jeffclark.popJava.fileio.popFile;
+//import net.homeip.jeffclark.popJava.consoleio.popConsole;
+//import net.homeip.jeffclark.popJava.fileio.popFile;
 
 public class testAll {
 
