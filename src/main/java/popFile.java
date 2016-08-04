@@ -1,4 +1,4 @@
-//package net.homeip.jeffclark.popJava.fileio;
+package net.homeip.jeffclark.popJava.fileio;
 
 import java.io.BufferedReader;
 import java.io.Console;
